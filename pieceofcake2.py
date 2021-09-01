@@ -14,9 +14,9 @@ else:
     longest_vertical = length - vertical_cut
     
 if horizontal_cut < half_length:
-    longest_horizontal = length - horizontal cut
+    longest_horizontal = length - horizontal_cut
 else:
     longest_horizontal = horizontal_cut
     
-print(longest_horizontal * longest_vertical * 4
+print(longest_horizontal * longest_vertical * 4)
         
